@@ -9,4 +9,6 @@
 
 'use strict';
 
+// hi
+
 module.exports = require('./local-cli/cli.js');
